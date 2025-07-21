@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ayodele-Akinpelumi
-- 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nlp/computer vison applicatin in:health-care,agricultulture,finance,football
+- 👋 Hi, I am @Ayodele-Akinpelumi
+- 👀 I am interested in data science and AI
+- 🌱 I am currently learning Python and Go
+- 💞️ I am looking to collaborate on Rl/BRl/computer vision application in:health-care
 - 📫 How to reach me:www.linkedin.com/in/
 akinpelumi-ayodele-a12638138
 https://twitter.com/Akinpeloummy
